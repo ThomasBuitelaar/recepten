@@ -29,9 +29,17 @@ article{
 	overflow: hidden;
 	text-align: center;
 	display: inline;
+	color: white;
 }
 
 #Pasta{
 	text-align: center;
-	display: inline;
+	display: block;
+	max-width: 300px;
+}
+.rcorners {
+    border-radius: 25px;
+    border: 2px solid white;
+   display: inline-block;
+   background-color: black;
 }
